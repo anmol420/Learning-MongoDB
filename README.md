@@ -15,6 +15,8 @@
 
 - [PLease See This Video In Order To Understand The Working Of The Code](https://www.youtube.com/watch?v=DZBGEVgL2eE)
 
+- To Run The `index.js` or `functions.js` File, Type - `node index.js` or `node functions.js` 
+
 <h2>Discord Server</h2>
 
 [Join our discord server now to get additional support or hang out!](https://discord.gg/QGf3q7e3J5)
